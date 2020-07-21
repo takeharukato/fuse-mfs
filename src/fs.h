@@ -15,6 +15,7 @@
 
 #include <limits.h>
 #include <errno.h>
+#include <sys/sysmacros.h>
 
 #include "mfsdir.h"
 #include "const.h"

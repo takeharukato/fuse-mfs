@@ -35,6 +35,7 @@
 #include <string.h>
 #include <time.h>
 #include <unistd.h>
+#include <sys/sysmacros.h>
 
 /* Definition of the file system layout: */
 #include "const.h"
